@@ -1,2 +1,2 @@
-# ios-issues
-Issues and solutions I found in iOS
+# issues
+Issues and solutions I found during development, mostly iOS
