@@ -1,8 +1,6 @@
 # notes
 
-❤️ Support my app ❤️ 
-
-https://onmyway133.com/apps/
+Building https://indiegoodies.com/
 
 ❤️❤️😇😍🤘❤️❤️
 
